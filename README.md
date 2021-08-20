@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Here are samples of the app's home page.
 
-![plot](Screenshot_2021-08-19-00-33-35-763_com.example.hng_task2.jpg)
+![plot](hng.gif)
