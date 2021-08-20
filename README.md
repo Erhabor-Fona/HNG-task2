@@ -22,3 +22,5 @@ samples, guidance on mobile development, and a full API reference.
 Here are samples of the app's home page.
 
 ![plot](hng.gif)
+ link to the second task to print name
+ ![plot](fhh.png)
